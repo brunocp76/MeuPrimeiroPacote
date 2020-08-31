@@ -1,0 +1,17 @@
+Package: MeuPrimeiroPacote
+Title: O primeiro pacote a gente nunca esquece
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Bruno Cesar",
+           family = "Pasquini",
+           role = c("aut", "cre"),
+           email = "Bruno.Pasquini@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Atende ao solicitado no primeiro exercicio do R para Ciencia de Dados II.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    magrittr
